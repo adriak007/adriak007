@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Adriano%20JR&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Web%20%7C%20TypeScript%20%C2%B7%20JavaScript&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Adriano%20JR&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Web%20%7C%20TypeScript%20%C2%B7%20JavaScript&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4C9BE8&center=true&vCenter=true&width=550&lines=Desenvolvedor+Web+Full+Stack;TypeScript+%2B+JavaScript+Dev;Open+Source+Contributor;PDV+%26+Browser+Extension+Builder)](https://git.io/typing-svg)
+
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=adriak007&style=flat-square&color=4c9be8&label=Visitas+ao+Perfil)](https://github.com/adriak007)
 &nbsp;
@@ -27,14 +31,17 @@ Desenvolvedor web com foco em **TypeScript** e **JavaScript**, construindo desde
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=3178c6)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=for-the-badge&logo=javascript&logoColor=f7df1e)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=e34f26)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=for-the-badge&logo=css3&logoColor=1572b6)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
-![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=61dafb)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=3c873a)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=f05032)
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,tailwind,react,nodejs,git&theme=dark&perline=8" />
+
+</div>
+
+---
+
+## Troféus
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adriak007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -62,9 +69,19 @@ Desenvolvedor web com foco em **TypeScript** e **JavaScript**, construindo desde
 &nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriak007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=adriak007&theme=tokyonight&hide_border=true&background=0d1117&dates=8b8b8b" width="500"/>
+
+</div>
+
+---
+
+## Atividade
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adriak007&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4c9be8&line=4c9be8&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
